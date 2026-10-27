@@ -118,20 +118,14 @@ Berry Melody隐私政策
 所使用的SDK:
 (1)	SDK名称:TapSDK  
   
-(2)	SDK使用目的:  
-  
+(2)	SDK使用目的: 
   1、用于故障分析：锁定 OS 版本、网络类型以及特定设备型号  
-  
   2、用于检测当前网络连接是否有效  
-  
   3、记录玩家实名认证状态  
   
 (3)	SDK收集的信息:  
-  
   1、系统版本、设备版本、WiFi 信息  
-  
   2、网络权限  
-  
   3、读写存储权限  
   
 (4)	隐私政策链接: https://developer.taptap.cn/docs/sdk/start/agreement/  
