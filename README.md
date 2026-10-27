@@ -127,21 +127,21 @@ Berry Melody隐私政策
 	3、读写存储权限
 (4)	隐私政策链接: https://developer.taptap.cn/docs/sdk/start/agreement/
 
-(1)	SDK名称:Unity 3D
-(2)	SDK使用目的:
-	1、框架
-(3)	SDK收集的信息:
-	1、读取设备信息（设备型号、系统名称、系统版本、MAC地址、IMEI、Android_id）
-	2、访问相机
-	3、应用安装列表
-	4、任务列表
-	5、网络状态信息
-	6、设备传感器信息
-	7、运营商名称
-	8、获取运行中的进程
-	9、IP地址
-(4)	隐私政策链接: https://unity3d.com/cn/legal/privacy-policy
-(5)	SDK提供方:Unity Technologies
+(1)	SDK名称:Unity 3D  
+(2)	SDK使用目的:  
+  1、框架  
+(3)	SDK收集的信息:  
+  1、读取设备信息（设备型号、系统名称、系统版本、MAC地址、IMEI、Android_id）  
+  2、访问相机  
+  3、应用安装列表  
+  4、任务列表  
+  5、网络状态信息  
+  6、设备传感器信息  
+  7、运营商名称  
+  8、获取运行中的进程  
+  9、IP地址  
+(4)	隐私政策链接: https://unity3d.com/cn/legal/privacy-policy  
+(5)	SDK提供方:Unity Technologies  
 
 
 
